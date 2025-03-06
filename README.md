@@ -54,8 +54,8 @@ python3 manage.py runserver
 ```
 POST /api/v1/jwt/create/
 {
-"username": "string",
-"password": "string"
+  "username": "string",
+  "password": "string"
 }
 ```
 
